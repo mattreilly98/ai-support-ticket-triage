@@ -55,3 +55,6 @@ n8n (self-hosted), OpenAI (gpt-4.1-mini, structured JSON output), Airtable, Slac
 - `README.md`: this case study
 
 The workflow export is available on request.
+
+## Portfolio 
+https://mattreilly98.github.io
